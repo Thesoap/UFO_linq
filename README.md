@@ -1,5 +1,7 @@
 00:00 - begyndte at installere Linqpad
+
 00:30 - kigger på hvordan man connecter til en MYSQL database fra linqpad
+
 01:00 - læser og prøver hvordan joins fungere i linq
 
 
